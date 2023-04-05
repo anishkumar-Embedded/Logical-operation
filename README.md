@@ -1,20 +1,19 @@
 # Logical Operation
 
-# AIM:
+## AIM:
 
 To Perform logical operation using Arduino UNO Controller.
 
-# Software required:
+## Software required:
 
-Arduino IDE,Proteous 
+Arduino IDE </br>
+Proteous 
 
 ## PROCEDURE:
-# Arduino IDE
-# Step1
-Open the Arduino IDE
-# Step2
-Go to file and select new file option
-# Step3
+### Arduino IDE
+Step1:Open the Arduino IDE </br>
+Step2: Go to file and select new file option</br>
+Step3:
 Type the program
 # Step4
 Go to file and select save option to save the program
